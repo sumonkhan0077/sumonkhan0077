@@ -18,33 +18,28 @@
 <br/>
 
 ## 💫 About Me
+I’m a passionate MERN Stack Developer, currently working on modern full-stack projects. I am learning advanced JavaScript, React, and backend technologies. I love creating clean, responsive, and user-friendly web applications. I am deeply interested in JavaScript, AI, and modern web technologies. My ultimate goal is to become a professional Full-Stack Developer.
 
-- 👨‍💻 I’m a passionate MERN Stack Developer  
-- 🚀 Currently working on modern full-stack projects  
-- 📚 Learning advanced JavaScript, React, and Backend technologies  
-- ❤️ I love creating clean, responsive, and user-friendly web applications  
-- 🔥 Interested in JavaScript, AI, and modern web technologies  
-- 🎯 My goal is to become a professional Full-Stack Developer  
+<br/>
 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumonkhan0077) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sumonkhan0077) 
+
 
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/sumonkhan0077)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/sumonkhan0077)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/sumonkhan0077)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/sumonkhan0077)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/sumonkhan0077)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/sumonkhan0077)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/sumonkhan0077)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/sumonkhan0077)
 
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/sumonkhan0077)
@@ -53,14 +48,10 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/sumonkhan0077)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/sumonkhan0077)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/sumonkhan0077)
 
 <br/>
 
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--- statistics --->
 

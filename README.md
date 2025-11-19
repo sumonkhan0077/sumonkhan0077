@@ -31,6 +31,8 @@ I’m a passionate MERN Stack Developer, currently working on modern full-stack 
   <a href="mailto:sumonkhanbd0077@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
 </a>
+<h4>Email:sumonkhanbd0077@gmail.com
+</h4>
 
 </p>
 

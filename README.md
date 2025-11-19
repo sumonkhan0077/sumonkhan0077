@@ -10,7 +10,7 @@
     <summary><h1 style="display: inline-block" >   👋 Hello, There! <br/> This is Sumon Khan</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=5d4418&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
 </a>
   </ul>
 </div>

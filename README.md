@@ -22,14 +22,13 @@ I’m a passionate MERN Stack Developer, currently working on modern full-stack 
 
 <br/>
 
+<!--- connect with me --->
 
 <div align="center">
-
 # <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect with me:</b><br/>
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2&logoWidth=30)](https://facebook.com/sumonkhan0077) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F&logoWidth=30)](https://instagram.com/sumonkhan_0077) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30)](https://linkedin.com/in/sumonkhan0077-dev)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30)](https://linkedin.com/in/sumonkhan0077)<br/>
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&logoWidth=30)](https://x.com/sumonkhan0077) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=30)](mailto:sumonkhanbd0077@gmail.com)<br/><br/>
 

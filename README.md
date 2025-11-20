@@ -23,18 +23,19 @@ I’m a passionate MERN Stack Developer, currently working on modern full-stack 
 <br/>
 
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect with me: <br/>
-<p align="left">
-<a href="https://x.com/sumonkhan0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumonkhan0077" height="30" width="40" /></a>
-<a href="https://fb.com/sumonkhan0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumonkhan0077" height="30" width="40" /></a>
-<a href="https://instagram.com/sumonkhan_0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumonkhan_0077" height="30" width="40" /></a>
-  <a href="mailto:sumonkhanbd0077@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-<h4>Email:sumonkhanbd0077@gmail.com
-</h4>
+<div align="center">
 
-</p>
+# <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect with me:</b><br/>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2&logoWidth=30)](https://facebook.com/sumonkhan0077) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F&logoWidth=30)](https://instagram.com/sumonkhan_0077) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30)](https://linkedin.com/in/sumonkhan0077-dev)<br/>
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&logoWidth=30)](https://x.com/sumonkhan0077) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=30)](mailto:sumonkhanbd0077@gmail.com)<br/><br/>
+
+<b>Email:</b> sumonkhanbd0077@gmail.com
+
+</div>
 
 
 
@@ -76,7 +77,7 @@ I’m a passionate MERN Stack Developer, currently working on modern full-stack 
 
 ### Repository Stats & Streak:
 
-| <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sumonkhan0077&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /> | <img align="center" src="https://streak-stats.demolab.com/?user=sumonkhan0077&theme=swift&hide_border=true" /> |
+| <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sumonkhan0077&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /> | <img src="https://streak-stats.demolab.com/?user=sumonkhan0077&theme=swift&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 
 

@@ -35,10 +35,10 @@ I’m a passionate MERN Stack Developer, currently working on modern full-stack 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30)](https://linkedin.com/in/sumonkhan0077)<br/>
 
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&logoWidth=30)](https://x.com/sumonkhan0077)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=30)](mailto:sumonkhanbd0077@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=30)](mailto:msumonkhan0077@gmail.com)
 
 <br/><br/>
-<b>Email:</b> <a href="mailto:sumonkhanbd0077@gmail.com">sumonkhanbd0077@gmail.com</a>
+<b>Email:</b> <a href="mailto:sumonkhanbd0077@gmail.com">msumonkhan0077@gmail.com</a>
 
 </div>
 
